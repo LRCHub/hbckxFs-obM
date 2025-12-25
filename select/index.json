@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "薄ら氷心中",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-25T11:23:21.658507Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "薄ら氷心中",
+      "artist": "Megumi Hayashibara",
+      "has_synced": true,
+      "path": "select/01_薄ら氷心中_Megumi_Hayashibara.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "薄ら氷心中",
+      "artist": "林原めぐみ",
+      "has_synced": true,
+      "path": "select/02_薄ら氷心中_林原めぐみ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "薄ら氷心中",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/03_薄ら氷心中_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "薄ら氷心中",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/04_薄ら氷心中_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "薄ら氷心中",
+      "artist": "林原めぐみ",
+      "has_synced": true,
+      "path": "select/05_薄ら氷心中_林原めぐみ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "薄ら氷心中",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": true,
+      "path": "select/06_薄ら氷心中_Hayashibara,_Megumi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "薄ら氷心中",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/07_薄ら氷心中_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "薄ら氷心中",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/08_薄ら氷心中_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "薄ら氷心中",
+      "artist": "Megumi Hayashibara",
+      "has_synced": true,
+      "path": "select/09_薄ら氷心中_Megumi_Hayashibara.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "薄ら氷心中 - A Double Suicide",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/10_薄ら氷心中_-_A_Double_Suicide_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "薄ら氷心中",
+      "artist": "Megumi Hayashibara",
+      "has_synced": true,
+      "path": "select/11_薄ら氷心中_Megumi_Hayashibara.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "薄ら氷心中 (Paused)",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/12_薄ら氷心中_(Paused)_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "薄ら氷心中",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_薄ら氷心中_椎名_林檎.txt"
+    }
+  ]
+}
